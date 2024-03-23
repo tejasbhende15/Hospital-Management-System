@@ -1,0 +1,131 @@
+@charset "UTF-8";
+*{
+	margin:0;
+	padding:0;
+}
+div .row  a{
+	
+	
+	text-decoration:none;
+	font-size:larger;
+	color: white;
+	
+}
+body{
+background-image:url('img/hg.jpg');
+
+}
+.card-body{
+
+  box-shadow: 0 0 0 1px #7fccde inset,
+        0 0 0 2px rgba(255,255,255,0.15) inset,
+        0 0 0 1px rgba(0,0,0,0.4);
+
+   box-shadow: 0 0 10px black; 
+}
+button{
+box-shadow: 5px 5px 0 0 darkgreen; 
+}
+
+.kflabel{
+	background-color:#0c612e;
+	height:50px;
+	 width:400px; 
+	margin-left:38%;
+	box-shadow: 10px 10px 0 0 darkgreen; 
+	border-radius:5px;
+}
+.kflabe2 p{
+	color:white;
+	text-align:center;
+	font-size:x-large;
+	font-weight:500;
+	padding-top:5px;
+}
+.kflabe2{
+	background-color:#0c612e;
+	height:50px;
+	 width:300px; 
+	margin-left:40%;
+	box-shadow: 10px 10px 0 0 darkgreen; 
+	border-radius:5px;
+}
+.kflabel p{
+	color:white;
+	text-align:center;
+	font-size:x-large;
+	font-weight:500;
+	padding-top:5px;
+}
+div1 img{
+	
+	width:100%;
+	height:675px;
+	
+}
+body{
+	background-color:rgb(255, 255, 255);
+}
+div .key{
+	
+	font-size:xx-large;
+	font-weight:700;
+	text-align:center;
+}
+div .i{
+	padding-top:55px;
+	padding-left:40px;
+}
+div i2{
+	padding:16px;
+}
+div i8{
+	padding:15px;
+}
+
+@media screen and (max-width: 500px){
+	.kflabel{
+	background-color:#0c612e;
+	height:70px;
+	 width:200px; 
+	margin-left:19%;
+	box-shadow: 10px 10px 0 0 darkgreen; 
+	border-radius:5px;
+}
+.kflabe2 p{
+	color:white;
+	text-align:center;
+	font-size:large;
+	font-weight:300;
+	padding-top:5px;
+}
+.kflabe2{
+	background-color:#0c612e;
+	height:50px;
+	 width:150px; 
+	margin-left:20%;
+	box-shadow: 10px 10px 0 0 darkgreen; 
+	border-radius:5px;
+}
+.kflabel p{
+	color:white;
+	text-align:center;
+	font-size:large;
+	font-weight:300;
+	padding-top:5px;
+}
+.hr h2{
+	
+	margin-left:22%;
+	
+}
+.hr i2{
+	margin-left:22%;
+}
+.hr i1{
+	margin-left:22%;
+}
+.hr button{
+	margin-left:22%;
+}
+}
